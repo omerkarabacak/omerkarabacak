@@ -5,7 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Effortlessly monitor your Elasticsearch logs and receive real-time alerts on your phone with…](https://omerkarabacak.medium.com/effortlessly-monitor-your-elasticsearch-logs-and-receive-real-time-alerts-on-your-phone-with-89abfdfe67e2?source=rss-7ff22b3dc81f------2)
+- [Effortlessly monitor your Elasticsearch logs and receive real-time alerts on your phone with…](https://faun.pub/effortlessly-monitor-your-elasticsearch-logs-and-receive-real-time-alerts-on-your-phone-with-89abfdfe67e2?source=rss-7ff22b3dc81f------2)
 - [One-Click Deployment: Securely Host Jenkins with Nginx and SSL with Letsencrypt Using Docker…](https://itnext.io/one-click-deployment-securely-host-jenkins-with-nginx-and-ssl-with-letsencrypt-using-docker-1303b06c3369?source=rss-7ff22b3dc81f------2)
 - [AI in DevOps: How Artificial Intelligence is Transforming the Way We Work](https://itnext.io/ai-in-devops-how-artificial-intelligence-is-transforming-the-way-we-work-f70204da324c?source=rss-7ff22b3dc81f------2)
 - [AWS EKS 101: Creating a Cluster and Deploying an App](https://itnext.io/aws-eks-101-creating-a-cluster-and-deploying-an-app-9608a1cac016?source=rss-7ff22b3dc81f------2)
