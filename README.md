@@ -5,7 +5,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Ways to Improve Your DevOps Workflow: Tips and Real-World Examples](https://itnext.io/10-ways-to-improve-your-devops-workflow-tips-and-real-world-examples-351a5d800d77?source=rss-7ff22b3dc81f------2)
+- [10 Ways to Improve Your DevOps Workflow: Tips and Real-World Examples](https://faun.pub/10-ways-to-improve-your-devops-workflow-tips-and-real-world-examples-351a5d800d77?source=rss-7ff22b3dc81f------2)
 - [10 Must-Know Python Libraries for DevOps Engineers in 2023](https://faun.pub/10-must-know-python-libraries-for-devops-engineers-in-2023-4960edbdf8b9?source=rss-7ff22b3dc81f------2)
 - [Effortlessly monitor your Elasticsearch logs and receive real-time alerts on your phone with…](https://faun.pub/effortlessly-monitor-your-elasticsearch-logs-and-receive-real-time-alerts-on-your-phone-with-89abfdfe67e2?source=rss-7ff22b3dc81f------2)
 - [One-Click Deployment: Securely Host Jenkins with Nginx and SSL with Letsencrypt Using Docker…](https://itnext.io/one-click-deployment-securely-host-jenkins-with-nginx-and-ssl-with-letsencrypt-using-docker-1303b06c3369?source=rss-7ff22b3dc81f------2)
